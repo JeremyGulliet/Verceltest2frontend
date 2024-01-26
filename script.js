@@ -1,4 +1,4 @@
-fetch('https://vercel-test-2-hazel.vercel.app/year')
+fetch('https://vercel-test-2-five.vercel.app/year')
         .then(response => response.json())
         .then(data => {
             console.log(data);
